@@ -1,0 +1,81 @@
+{
+  createdAt=ThuSep2617: 05: 07IST2019,
+  id=1177184825091821568,
+  text='lets party',
+  source='<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>',
+  isTruncated=false,
+  inReplyToStatusId=-1,
+  inReplyToUserId=-1,
+  isFavorited=false,
+  isRetweeted=false,
+  favoriteCount=0,
+  inReplyToScreenName='null',
+  geoLocation=null,
+  place=null,
+  retweetCount=0,
+  isPossiblySensitive=false,
+  lang='en',
+  contributorsIDs=[
+    
+  ],
+  retweetedStatus=null,
+  userMentionEntities=[
+    
+  ],
+  urlEntities=[
+    
+  ],
+  hashtagEntities=[
+    
+  ],
+  mediaEntities=[
+    
+  ],
+  symbolEntities=[
+    
+  ],
+  currentUserRetweetId=-1,
+  user=UserJSONImpl{
+    id=363088095,
+    name='Uday BK',
+    email='null',
+    screenName='BKUDAY',
+    location='anantapur',
+    description='This is UdayBK',
+    isContributorsEnabled=false,
+    profileImageUrl='http://pbs.twimg.com/profile_images/2169434149/roger_federer01_normal.jpg',
+    profileImageUrlHttps='https://pbs.twimg.com/profile_images/2169434149/roger_federer01_normal.jpg',
+    isDefaultProfileImage=false,
+    url='null',
+    isProtected=false,
+    followersCount=6,
+    status=null,
+    profileBackgroundColor='000000',
+    profileTextColor='000000',
+    profileLinkColor='981CEB',
+    profileSidebarFillColor='000000',
+    profileSidebarBorderColor='000000',
+    profileUseBackgroundImage=false,
+    isDefaultProfile=false,
+    showAllInlineMedia=false,
+    friendsCount=26,
+    createdAt=SatAug2719: 49: 41IST2011,
+    favouritesCount=72,
+    utcOffset=-1,
+    timeZone='null',
+    profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png',
+    profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png',
+    profileBackgroundTiled=false,
+    lang='null',
+    statusesCount=150,
+    isGeoEnabled=false,
+    isVerified=false,
+    translator=false,
+    listedCount=0,
+    isFollowRequestSent=false,
+    withheldInCountries=null
+  },
+  withHeldInCountries=null,
+  quotedStatusId=-1,
+  quotedStatus=null
+}
